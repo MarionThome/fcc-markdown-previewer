@@ -1,7 +1,7 @@
 {
   "name": "fcc-markdownpreviewer",
-  "homepage": "fcc-markdownpreviewer",
-  "proxy": "http://localhost:5000",
+  "proxy": "http://localhost:3000",
+  "homepage": ".",
   "engines": { 
     "node": "16.17.0",
     "npm": "8.18.0"
